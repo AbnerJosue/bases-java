@@ -24,6 +24,4 @@
 
 ## Condicional Simple: IF
 
-La  estructura de control  **IF**  permite decidir entre dos opciones resultantes de la evaluación de una condición. Si ésta se cumple, se ejecuta una parte de código, caso contrario, se sigue de largo o, en su defecto se ejecuta el código que se encuentra dentro de una sentencia  **else**  (eso lo veremos en la próxima clase 😉).
-
-En este video te contamos ¿Para qué se utiliza la estructura IF? ¿De qué manera podemos implementarla en Java? y mucho más. ¡No te lo pierdas!
+La  estructura de control  **IF**  permite decidir entre dos opciones resultantes de la evaluación de una condición. Si ésta se cumple, se ejecuta una parte de código, caso contrario, se sigue de largo o, en su defecto se ejecuta el código que se encuentra dentro de una sentencia  **else**.
