@@ -29,11 +29,8 @@ public class BasesJava {
         // Tipos de Numericos
            
         int num1, num2, resultado;
-        
         num1 = 5;
-        
         num2 = 10;
-        
         resultado = num1 + num2;
         
         System.out.println("El resultado es " + resultado );
@@ -50,7 +47,7 @@ public class BasesJava {
         
         Ejercicio ejercicio = new Ejercicio();
 
-        // Llamando al método saludar
+        // Llamando al método saludarr
         ejercicio.saludar();
 
         // Llamando al método sumar
@@ -61,6 +58,21 @@ public class BasesJava {
         String saludo = ejercicio.obtenerSaludo("Josue");
         System.out.println(saludo); 
         
+        int numero1 = 35;
+        int numero2 = 20;
+        int aux;
+        
+        System.out.println("----Antes------");        
+        System.out.println("Num1" + numero1);        
+        System.out.println("Num1" + numero2);
+        
+        aux = numero1;
+        numero1 = numero2;
+        numero2 = aux;
+
+        System.out.println("----Despues------");
+        System.out.println("Num1" + numero1);        
+        System.out.println("Num1" + numero2);
         
     }
     
