@@ -11,3 +11,8 @@
 |Cadena de caracteres/texto| String| "Hola mundo, probando" |
 | Entero Largo| long | numeros entre (-9.223.372.036.854.775.808, 9.223.372.036.854.775.808) |
 
+## Declaracion de variables
+
+ int numero; 
+- tipo de dato `int`
+-	nombre `numero` 
