@@ -16,7 +16,7 @@
 -	nombre `numero` 
 
 
-## Variables: Operadores aritméticos
+## Operadores aritméticos
 
 **Un operador** es un **símbolo especial** que indica que se debe efectuar una determinada operación. Estas operaciones pueden ser de asignación, aritméticas, condicionales, relacionales, entre otras. algunas de las más conocidas son:
 
