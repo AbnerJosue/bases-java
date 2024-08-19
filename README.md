@@ -14,3 +14,10 @@
  int numero; 
 - tipo de dato `int`
 -	nombre `numero` 
+
+
+## Variables: Operadores aritméticos
+
+**Un operador** es un **símbolo especial** que indica que se debe efectuar una determinada operación. Estas operaciones pueden ser de asignación, aritméticas, condicionales, relacionales, entre otras. algunas de las más conocidas son:
+
+![enter image description here](https://todocodeacademy.com/wp-content/uploads/2021/12/operaciones.png)
