@@ -28,3 +28,28 @@
 ## Condicional Simple: IF
 
 La  estructura de control  **IF**  permite decidir entre dos opciones resultantes de la evaluación de una condición. Si ésta se cumple, se ejecuta una parte de código, caso contrario, se sigue de largo o, en su defecto se ejecuta el código que se encuentra dentro de una sentencia  **else**.
+
+# Switch 
+
+La estructura “Switch” permite múltiples caminos a partir de la evaluación de una sola expresión/condición. La construcción de esta estructura se ejecuta mediante la evaluación de la condición y un conjunto de casos llamados cases.
+
+Cada case es una posible respuesta a la evaluación de esa condición, si el valor que se busca coincide con algún case, se ejecuta el mismo hasta la sentencia break o hasta el final del Switch (dependiendo del caso).
+
+```mermaid
+graph TD
+A[Mostrar datos] --> B[Usuario Elegido ?]
+B --> C[Ismael]
+B --> D[Cecilia]
+B --> E[Samuel]
+B --> F[Manuel]
+
+C --> G[Mostrar datos de Ismael]
+D --> H[Mostrar datos de Cecilia]
+E --> I[Mostrar datos de Samuel]
+F --> J[Mostrar datos de Manuel]
+
+G --> K[Fin]
+H --> K[Fin]
+I --> K[Fin]
+J --> K[Fin]
+```
