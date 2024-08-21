@@ -15,11 +15,12 @@ public class BasesJava {
         TIpoVariables variables = new TIpoVariables();
         Ejercicio1 ejercicio1 = new Ejercicio1();
         Ejercicio ejercicio = new Ejercicio();
-
+        EjercicioSwitch ejercicioSwitch = new EjercicioSwitch();
+ 
         variables.variables();
         ejercicio1.numero();
         ejercicio.saludar();
-
+        ejercicioSwitch.StructureOfSwitch();
         // Llamando al método sumar
         int resultado2 = ejercicio.sumar(5, 7);
         System.out.println("Resultado de la suma: " + resultado2);
