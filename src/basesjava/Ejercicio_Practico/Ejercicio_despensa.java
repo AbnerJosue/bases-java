@@ -14,7 +14,7 @@ public class Ejercicio_despensa {
     
         public void despensa(){
             
-           double sueldo;
+           double sueldo = 0;
            int categoria;
            
            System.out.println(" Ingrese el tipo de categoria que desea calcular el sueldo ");
@@ -31,8 +31,8 @@ public class Ejercicio_despensa {
             sueldo = 35560.20 + (35560.20 * 0.11);
            } else {
                System.out.println("Debe ingresar un numero de categoria valida");
+               return;
            }
-           
             
            System.out.println("El sueldo de :" + categoria + "Es de :" + sueldo );
            
