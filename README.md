@@ -73,3 +73,8 @@ Posee tres principales partes en su estructura:
 
 De a poquito vamos entendiendo lo que son las estructuras repetitivas, y al usarlas tenemos que saber que podemos cometer muchos errores. Uno de los errores más conocidos es la generación de «Bucles Infinitos». En el video a continuación te contamos un poco ¿Cómo se producen? y por supuesto, ¿Cómo evitarlos?.
 
+
+
+# Estructuras Repetitivas: Bucles Infinitos
+
+De a poquito vamos entendiendo lo que son las estructuras repetitivas, y al usarlas tenemos que saber que podemos cometer muchos errores. Uno de los errores más conocidos es la generación de «Bucles Infinitos». En el video a continuación te contamos un poco ¿Cómo se producen? y por supuesto, ¿Cómo evitarlos?.

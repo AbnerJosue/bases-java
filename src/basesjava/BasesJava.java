@@ -56,9 +56,20 @@ public class BasesJava {
 
             System.out.println("Estoy en la vuelta: "+ contador);
             contador++;
-
-
         }
+
+
+        // While infinitos con estructuras repetitivas
+
+        boolean centinela = true;
+
+        while( centinela == true) {
+            System.out.println("Estoy en la vuelta: "+ centinela);
+            centinela = false;
+        }
+
+        
+
 
     }
 
