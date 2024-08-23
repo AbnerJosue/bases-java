@@ -78,3 +78,14 @@ De a poquito vamos entendiendo lo que son las estructuras repetitivas, y al usar
 # Estructuras Repetitivas: Bucles Infinitos
 
 De a poquito vamos entendiendo lo que son las estructuras repetitivas, y al usarlas tenemos que saber que podemos cometer muchos errores. Uno de los errores más conocidos es la generación de «Bucles Infinitos». En el video a continuación te contamos un poco ¿Cómo se producen? y por supuesto, ¿Cómo evitarlos?.
+
+
+# Estructuras Repetitivas: FOR
+
+Así como tenemos a la estructura While, que puede ser controlada tanto por centinelas como por contadores, también contamos con otra estructura que es considerada como la preferida a la hora de ejecutar bucles controlados por contador. Esta estructura es el conocido FOR.
+
+La estructura FOR, está compuesta por tres partes:
+
+Inicialización de la variable que utilizaremos en la condición (se ejecuta solo una vez al principio del ciclo).
+Condición de fin del ciclo (se evalúa esta expresión al comienzo de cada iteración).
+Modificación (incremento o decremento) de la variable (se ejecuta al final de cada iteración).
