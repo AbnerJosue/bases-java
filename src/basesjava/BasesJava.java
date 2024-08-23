@@ -111,6 +111,9 @@ public class BasesJava {
 
         matriz[0][0] = 20;
         matriz[0][1] = 30;
+        matriz[1][1] = 1900;
+        matriz[1][2] = 50;
+
 
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz[i].length; j++) {
