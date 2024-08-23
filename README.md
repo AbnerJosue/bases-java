@@ -63,9 +63,7 @@ Este operador se caracteriza por su sintaxis compacta y su capacidad para simpli
 Posee tres principales partes en su estructura:
 
  - Condición: Una expresión que se evalúa como verdadera o falsa.
- - Valor_si_verdadero: El valor que se asignará a la variable si la   
-   condición es verdadera.
- - Valor_si_falso: El valor que se asignará a la variable si la   
-   condición es falsa
+ - Valor_si_verdadero: El valor que se asignará a la variable si la condición es verdadera.
+ - Valor_si_falso: El valor que se asignará a la variable si la condición es falsa
 
 ```   variable = ( condicion  ) ? valor_si_verdadero: valor_si_falso  ```
