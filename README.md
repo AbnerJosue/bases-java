@@ -67,3 +67,9 @@ Posee tres principales partes en su estructura:
  - Valor_si_falso: El valor que se asignará a la variable si la condición es falsa
 
 ```   variable = ( condicion  ) ? valor_si_verdadero: valor_si_falso  ```
+
+
+# Estructuras Repetitivas: Bucles Infinitos
+
+De a poquito vamos entendiendo lo que son las estructuras repetitivas, y al usarlas tenemos que saber que podemos cometer muchos errores. Uno de los errores más conocidos es la generación de «Bucles Infinitos». En el video a continuación te contamos un poco ¿Cómo se producen? y por supuesto, ¿Cómo evitarlos?.
+

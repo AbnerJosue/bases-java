@@ -28,24 +28,37 @@ public class BasesJava {
 
 
         // Llamando al método obtenerSaludo
-        Ejercicio ejercicio = new Ejercicio();
+        // Ejercicio ejercicio = new Ejercicio();
        
-        String saludo = ejercicio.obtenerSaludo("Josue");
-        System.out.println(saludo);
+        // String saludo = ejercicio.obtenerSaludo("Josue");
+        // System.out.println(saludo);
 
-        // Llamando al método sumar
-        int resultado2 = ejercicio.sumar(5, 7);
-        System.out.println("Resultado de la suma: " + resultado2);
+        // // Llamando al método sumar
+        // int resultado2 = ejercicio.sumar(5, 7);
+        // System.out.println("Resultado de la suma: " + resultado2);
 
-        // desde otra carpeta
+        // // desde otra carpeta
 
-        Ejercicio_despensa ejercicio_despensa = new Ejercicio_despensa();
-        ejercicio_despensa.despensa();
+        // Ejercicio_despensa ejercicio_despensa = new Ejercicio_despensa();
+        // ejercicio_despensa.despensa();
 
         // operador Ternario
 
-        TernarioOperador ternario = new TernarioOperador(); 
-        ternario.operador();
+        // TernarioOperador ternario = new TernarioOperador(); 
+        // ternario.operador();
+
+
+        // While 
+
+        int contador = 0;
+
+        while( contador <= 10) {
+
+            System.out.println("Estoy en la vuelta: "+ contador);
+            contador++;
+
+
+        }
 
     }
 
