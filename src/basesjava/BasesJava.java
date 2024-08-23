@@ -15,19 +15,19 @@ public class BasesJava {
 
     public static void main(String[] args) {
 
-        // Declaracion de Instancias
-        // TIpoVariables variables = new TIpoVariables();
+        // // Declaracion de Instancias
+        // // TIpoVariables variables = new TIpoVariables();
         
-        // Ejercicio1 ejercicio1 = new Ejercicio1();
-        // EjercicioSwitch ejercicioSwitch = new EjercicioSwitch();
+        // // Ejercicio1 ejercicio1 = new Ejercicio1();
+        // // EjercicioSwitch ejercicioSwitch = new EjercicioSwitch();
 
-        // variables.variables();
-        // ejercicio1.numero();
-        // ejercicio.saludar();
-        // ejercicioSwitch.StructureOfSwitch();
+        // // variables.variables();
+        // // ejercicio1.numero();
+        // // ejercicio.saludar();
+        // // ejercicioSwitch.StructureOfSwitch();
 
 
-        // Llamando al método obtenerSaludo
+        // // Llamando al método obtenerSaludo
         Ejercicio ejercicio = new Ejercicio();
        
         String saludo = ejercicio.obtenerSaludo("Josue");
@@ -77,6 +77,47 @@ public class BasesJava {
         }
 
 
+        // Declararion de Vectores 
+
+        int vector [] = new int [4];
+        // int vector []; sin asignar el tamaño
+
+        // Asignaciond ( manual )
+        vector[0] = 2; 
+        vector[1] = 50; 
+        vector[2] = 1223; 
+        vector[3] = 44; 
+        // vector[4] = 44;  Esto genera un error ya que no es del mismo tamaño Index 4 out of bounds for length 4
+
+        System.out.println(vector);
+
+        // Recorrido 
+
+        for( int i = 0; i < vector.length; i ++ ){
+            System.out.println(vector[i]);
+        }
+
+        // Matriz 
+
+        int matriz [][] = new int [3][3];   // 3 filas , 3 columnas
+        
+        // matriz = [
+        //         [0, 0, 0],  # Fila 0
+        //         [0, 0, 0],  # Fila 1
+        //         [0, 0, 0]   # Fila 2
+        // ]
+
+        // Asignacion Manual
+
+        matriz[0][0] = 20;
+        matriz[0][1] = 30;
+
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz[i].length; j++) {
+                System.out.print(matriz[i][j] + " ");
+            }
+            System.out.println();
+        }
     }
 
 }
