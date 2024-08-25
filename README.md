@@ -149,6 +149,7 @@ matriz[0][0] = 1; // Asigna el valor 1 al primer elemento (esquina superior izqu
 matriz[2][2] = 9; // Asigna el valor 9 al último elemento (esquina inferior derecha)
 
 // Imprimir la matriz
+// Es una matriz de doble for
 for (int i = 0; i < matriz.length; i++) {
     for (int j = 0; j < matriz[i].length; j++) {
         System.out.print(matriz[i][j] + " ");
