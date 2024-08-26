@@ -114,7 +114,8 @@ graph TD
     A[Arreglos] --> B[Unidimensionales]
     A[Arreglos] --> C[Bidimensionales]
     B --> D[Poseen únicamente filas o columnas. Un claro ejemplo son los vectores.]
-    C --> E[Comprenden tablas de valores, donde cada elemento está simultáneamente en una fila y una columna a la vez. Un ejemplo son las matrices.]
+    C --> E[Comprenden tablas de valores, donde cada elemento está simultáneamente]
+    E --> F[en una fila y una columna a la vez. Un ejemplo son las matrices.]
 ```
 
 ## Ejemplo de Matriz Bidimensional en Java
