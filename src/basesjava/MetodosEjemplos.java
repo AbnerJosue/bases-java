@@ -8,7 +8,7 @@ package basesjava;
  *
  * @author josue
  */
-public class Ejercicio {
+public class MetodosEjemplos {
     
     
     public void saludar() {

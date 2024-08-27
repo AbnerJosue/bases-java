@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package basesjava.Ejercicio_Practico;
+package basesjava.EjercicioDespensa;
 
 import java.util.Scanner;
 
