@@ -1,6 +1,6 @@
 package basesjava;
 
-public class Ejercicio1 {
+public class EjercicioNumeros {
     
   void numero() {
      

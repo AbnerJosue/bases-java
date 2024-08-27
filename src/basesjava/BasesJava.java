@@ -28,7 +28,7 @@ public class BasesJava {
 
 
         // // Llamando al método obtenerSaludo
-        Ejercicio ejercicio = new Ejercicio();
+        MetodosEjemplos ejercicio = new MetodosEjemplos();
        
         String saludo = ejercicio.obtenerSaludo("Josue");
         System.out.println(saludo);
