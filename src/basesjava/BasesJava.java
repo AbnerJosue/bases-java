@@ -4,8 +4,7 @@
  */
 package basesjava;
 
-// importar desde otra carpeta 
-import basesjava.Ejercicio_Practico.Ejercicio_despensa;
+import basesjava.EjercicioDespensa.Ejercicio_despensa;
 import basesjava.OperadorTernario.*;
 /**
  *
