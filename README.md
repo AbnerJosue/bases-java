@@ -139,6 +139,7 @@ En esta tabla:
 #### Ejemplo de Código en Java
 
 ```java
+
 // Inicialización de una matriz 3x3 en Java con valores predeterminados de 0
 int[][] matriz = new int[3][3];
 
@@ -156,3 +157,10 @@ for (int i = 0; i < matriz.length; i++) {
     }
     System.out.println();
 }
+
+
+
+```
+![1725458888013](https://github.com/user-attachments/assets/06678223-0a1c-4ed6-831d-081be7926da7)
+
+
