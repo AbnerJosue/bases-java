@@ -127,9 +127,9 @@ Cada celda en la matriz puede ser identificada usando un par de índices: uno pa
 
 |   | 0   | 1   | 2   |
 |---|-----|-----|-----|
-| 0 |     |     |     |
-| 1 |     |     |     |
-| 2 |     |     |     |
+| 0 | 23    |  4   |     |
+| 1 |     |  6   |    6 |
+| 2 |  4  |   6  |     |
 
 En esta tabla:
 
