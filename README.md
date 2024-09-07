@@ -161,6 +161,9 @@ for (int i = 0; i < matriz.length; i++) {
 
 
 ```
+
+Mapa
+
 ![1725458888013](https://github.com/user-attachments/assets/06678223-0a1c-4ed6-831d-081be7926da7)
 
 
