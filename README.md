@@ -15,7 +15,7 @@
 
  int numero; 
 - tipo de dato `int`
--	nombre `numero` 
+-	nombre `string` 
 
 
 ## Operadores aritméticos
