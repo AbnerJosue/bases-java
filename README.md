@@ -162,7 +162,7 @@ System.out.println(matriz);
 
 ```
 
-Mapa
+# Mapa Para aprender Java
 
 ![1725458888013](https://github.com/user-attachments/assets/06678223-0a1c-4ed6-831d-081be7926da7)
 
